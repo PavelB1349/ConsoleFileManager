@@ -1,0 +1,8 @@
+G:\C#\homework\homework_16\homework_16\exercise\bin\Debug\exercise.exe.config
+G:\C#\homework\homework_16\homework_16\exercise\bin\Debug\exercise.exe
+G:\C#\homework\homework_16\homework_16\exercise\bin\Debug\exercise.pdb
+G:\C#\homework\homework_16\homework_16\exercise\obj\Debug\exercise.csproj.AssemblyReference.cache
+G:\C#\homework\homework_16\homework_16\exercise\obj\Debug\exercise.csproj.SuggestedBindingRedirects.cache
+G:\C#\homework\homework_16\homework_16\exercise\obj\Debug\exercise.csproj.CoreCompileInputs.cache
+G:\C#\homework\homework_16\homework_16\exercise\obj\Debug\exercise.exe
+G:\C#\homework\homework_16\homework_16\exercise\obj\Debug\exercise.pdb
